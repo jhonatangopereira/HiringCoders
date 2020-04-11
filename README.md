@@ -14,6 +14,7 @@
         - Infraestrutura
         - Testes
         - Integração de diversos sistemas
+
 - [x]  **AULA 1.02 - COMO COMEÇAR**
     - ***Editores de texto***
         - Sublime
@@ -24,6 +25,7 @@
         - Eclipse
         - Netbeans
         - Intellij
+
 - [x]  **AULA 1.03 - DICAS**
     - ***HTML e CSS*** - Linguagens de formatação/apresentação
     - ***Bancos de Dados relacionais*** - MySQL, Postgres, Oracle, SQL Server
@@ -34,6 +36,7 @@
 - [x]  **AULA 2.01 - ALGORITMOS**
     - ***O que é um algoritmo:*** Sequência finita de passos ordenados, cujo objetivo é a **resolução de um problema** através da **transformação da informação** (dados)
     - ***Fazendo um bolo***
+
 - [x]  **AULA 2.02 - VARIÁVEIS E OPERAÇÕES**
     - ***O que fazer com variáveis?***
         - Armazenar informações
@@ -57,6 +60,7 @@
         - Or (||)
         - Not (|)
 - [x]  **AULA 2.03 - DECISÕES**
+
 - [x]  **AULA 2.04 - REPETIÇÕES**
 
 ### Módulo 3 - Metodologias Ágeis
@@ -70,6 +74,7 @@
                 - Regras
                 - Eventos
                 - Artefatos
+
 - [x]  **AULA 3.02 - PAPÉIS**
     - ***Product Owner (PO)*** - Está entre o **Time de Desenvolvimento** e os **StakeHolders**. Denominado como dono do projeto.
     - ***Scrum Master***
@@ -89,6 +94,7 @@
             - Comprometido
             - Focado
             - Busca sempre melhorar sua forma de trabalho e seus resultados
+
 - [x]  **AULA 3.03 - EVENTOS**
     - ***Sprint*** - O **coração do Scrum**, um período de **um mês ou menos**, durante o qual é criado um **produto "Concluído"**, utilizável e potencialmente publicável.
         - Quanto mais tempo, maior a chance de haver mudanças no produto, aumento de complexidade e maior risco de falha.
@@ -106,6 +112,7 @@
         - **Stakeholders** chaves são convidados pelo **Product Owner**.
     - **Retrospectiva** - Momento em que é discutido o que **ocorreu bem**, **poderia ser melhor** e **como o time deve se comprometer para melhorar na próxima Sprint**.
         - Esse é o momento para **Inspecionar** e **Adaptar**.
+
 - [x]  **AULA 3.04 - ARTEFATOS E REFINAMENTO**
     - ***Artefatos***
         - **Product Backlog**
@@ -115,6 +122,7 @@
         - **Itens** muito grandes devem ser **quebrados** com o intuito de **facilitar o planejamento**, **execução** e **entrega**.
         - **Priorizar** os itens de **backlog** (itens devem mudar de acordo com mudanças e estratégias).
         - **Refinar os itens de backlog** (requisitos devem ser **detalhados**, contendo todas as informações necessárias como: regras de negócio, critérios de aceite, fluxos, protótipos, etc).
+
 - [x]  **AULA 3.05 - KANBAN E EXTREME PROGRAMMING**
     - ***Kanban*** - Tem como objetivo **limitar o trabalho em andamento** e **maximizar a eficiência** (ou fluxo).
         - Baseado em um **workflow contínuo** que mantém as equipes ágeis e prontas para se **adaptarem** às mudanças nas **prioridades**.
@@ -131,6 +139,7 @@
         - **GitHub**
         - **BitBucket**
         - **GitLab**
+
 - [x]  **AULA 4.02 - INIT ADD COMMIT**
     - ***Init*** - Iniciar **versionamento** através do terminal.
     - ***Add*** - Adicionar ou modificar arquivo dentro do repositório criado.
@@ -138,12 +147,14 @@
     - ***Commit*** - Criar um ponto na **linha do tempo** do repositório.
     - ***Log*** - Verificar os pontos da linha do tempo e autores das mudanças.
     - ***Status*** - Verificar as mudanças **não "*commitadas*"** do repositório.
+
 - [x]  **AULA 4.03 - LOG, STATUS E SHOW**
     - ***Branch*** - Cria uma nova linha do tempo, usada em **paralelo a linha do tempo principal** (master).
     - ***Checkout*** - Acessa as linhas do tempo **disponíveis** no repositório.
     - ***Reset*** - Retira os arquivos adicionando por **Add**/**Stage**.
     - ***Merge** -* Conecta uma branch paralela à branch principal.
     - ***Show*** - Mostra detalhadamente as mudanças feitas em um commit específico.
+
 - [x]  **AULA 4.04 - BRANCH, CHECKOUT, MERGE E PUSH**
     - ***GitHub*** - Uma rede social de **código fonte**.
         - **Gratuito** para uso de projetos **open source**.
