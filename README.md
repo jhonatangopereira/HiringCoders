@@ -29,10 +29,6 @@
     - ***Bancos de Dados relacionais*** - MySQL, Postgres, Oracle, SQL Server
     - ***Bancos de Dados não relacionais*** - Cassandra, MongoDB
 
-        ![Hiring%20Coders/devops-process.png](Hiring%20Coders/devops-process.png)
-
-        **Development Operation**
-
 ### Módulo 2 - Lógica de Programação
 
 - [x]  **AULA 2.01 - ALGORITMOS**
@@ -94,9 +90,6 @@
             - Focado
             - Busca sempre melhorar sua forma de trabalho e seus resultados
 - [x]  **AULA 3.03 - EVENTOS**
-
-    ![Hiring%20Coders/scrum-sprint.png](Hiring%20Coders/scrum-sprint.png)
-
     - ***Sprint*** - O **coração do Scrum**, um período de **um mês ou menos**, durante o qual é criado um **produto "Concluído"**, utilizável e potencialmente publicável.
         - Quanto mais tempo, maior a chance de haver mudanças no produto, aumento de complexidade e maior risco de falha.
         - Uma nova Sprint **começa imediatamente** após a conclusão da Sprint anterior. O **resultado** da Sprint deve ser sempre **incremental.**
