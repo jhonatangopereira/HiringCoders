@@ -1,6 +1,14 @@
 # Hiring Coders
 
-## Treinamento Full Stack - Hacker disponibilizado pela Gama Academy.
+## Sobre
+
+- O **Programa Hiring Coders 2020** da **Gama Academy** tem total foco em **treinar e desenvolver** pessoas para a carreira de **desenvolvimento Full-Stack**.
+
+## Desafio - Módulo 4
+
+- ***O que você está achando do curso?***
+    - Com uma ótima recepção e excelentes conteúdos da área de Full-Stack, o curso tem sido ideal tanto para desenvolvedores experientes quanto para novatos que têm interesse na área.
+    - Agradeço a oportunidade, [Gama Academy](https://gama.academy/)!
 
 ### Módulo 1 - Introdução
 
@@ -60,7 +68,6 @@
         - Or (||)
         - Not (|)
 - [x]  **AULA 2.03 - DECISÕES**
-
 - [x]  **AULA 2.04 - REPETIÇÕES**
 
 ### Módulo 3 - Metodologias Ágeis
@@ -168,10 +175,26 @@
 
     Depois acessar a conta, com usuário e senha.
 
-- [ ]  **AULA 4.05 - CLONE E PULL**
-- [ ]  **AULA 4.06 - IGNORE**
-- [ ]  **AULA 4.07 - PULL REQUEST**
-- [ ]  **AULA 4.08 - GITFLOW**
+    - ***Push*** - Envia as alterações para um repositório remoto.
+
+- [x]  **AULA 4.05 - CLONE E PULL**
+    - ***Clone*** - Clonar um repositório a partir de um endereço.
+    - ***Reset*** - Excluir linha do tempo.
+    - ***Pull*** - Atualizar o repositório local a partir do repositório remoto.
+
+- [x]  **AULA 4.06 - IGNORE**
+    - ***.gitinore*** - Usado para ignorar arquivos/pastas no momento de fazer o push para um repositório remoto.
+
+- [x]  **AULA 4.07 - PULL REQUEST**
+    - ***Fork*** - Fazer uma cópia de um outro projeto para o próprio repositório remoto.
+    - ***Pull Request*** - Alterações enviadas para o projeto principal para serem analisadas.
+
+- [x]  **AULA 4.08 - GITFLOW**
+    - ***Master*** - **Branch principal**.
+    - ***Hotfix*** - Branch usada para **correção de falhas** e **pequenas alterações** no projeto.
+    - ***Release*** - Tem função de **juntar outras branchs** para submeter para a branch master posteriormente.
+    - ***Develop*** - Usada para **testes** e **controle**.
+    - ***Feature*** - Branch usada para armazenar as funcionalidades desenvolvidas.
 
 ### Módulo 5 - HTML
 
