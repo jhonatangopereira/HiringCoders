@@ -6,14 +6,14 @@
 
 ## Índice
 
-- [x]  **[Módulo 1 - Introdução](#módulo-1---introdução)
-- [x]  **[Módulo 2 - Lógica de Programação](#módulo-2---lógica-de-programação)
-- [x]  **[Módulo 3 - Metodologias Ágeis](#módulo-3---metodologias-ágeis)
-- [x]  **[Módulo 4 - GIT](#módulo-4---git)
-    - [x]  **[Desafio - O que você está achando do curso?](#desafio---módulo-4)
-- [ ]  **[Módulo 5 - HTML](#módulo-5---html)
-- [ ]  **[Módulo 6 - CSS](#módulo-6---css)
-- [ ]  **[Módulo 7 - Bootstrap](#módulo-7---bootstrap)
+- [x]  **[Módulo 1 - Introdução](#módulo-1---introdução)**
+- [x]  **[Módulo 2 - Lógica de Programação](#módulo-2---lógica-de-programação)**
+- [x]  **[Módulo 3 - Metodologias Ágeis](#módulo-3---metodologias-ágeis)**
+- [x]  **[Módulo 4 - GIT](#módulo-4---git)**
+    - [x]  **[Desafio - O que você está achando do curso?](#desafio---módulo-4)**
+- [ ]  **[Módulo 5 - HTML](#módulo-5---html)**
+- [ ]  **[Módulo 6 - CSS](#módulo-6---css)**
+- [ ]  **[Módulo 7 - Bootstrap](#módulo-7---bootstrap)**
 
 ---
 
