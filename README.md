@@ -214,9 +214,9 @@
         	</body>
         </html>
 
-    - ***<html>***: **Tag principal** que armazena todo o conteúdo de uma página.
-    - ***<head>***: Tag que **armazena informações** que **descrevem** o documento. Exemplo: *título da página*.
-    - ***<body>***: Tag que **representa o conteúdo** de um documento HTML.
+    - ***html***: **Tag principal** que armazena todo o conteúdo de uma página.
+    - ***head***: Tag que **armazena informações** que **descrevem** o documento. Exemplo: *título da página*.
+    - ***body***: Tag que **representa o conteúdo** de um documento HTML.
 
 **W3Schools: [https://www.w3schools.com/](https://www.w3schools.com/)**
 
@@ -232,7 +232,7 @@
 
         <ul>
         	<li>Elemento 1</li>
-          <li>Elemento 2</li>
+            <li>Elemento 2</li>
         	<li>Elemento 3</li>
         </ul>
 
@@ -240,7 +240,7 @@
 
         <ol>
         	<li>Elemento 1</li>
-          <li>Elemento 2</li>
+            <li>Elemento 2</li>
         	<li>Elemento 3</li>
         </ol>
 
@@ -249,11 +249,11 @@
         <table>
         	<tr>
         		<th>Item</th> <!--Título da coluna 1-->
-        	  <th>Quantidade</th> <!--Título da coluna 2-->
+        	    <th>Quantidade</th> <!--Título da coluna 2-->
         	</tr>
         	<tr>
-        	  <td>Item 1</td> <!--Item da coluna 1-->
-            <td>Quantidade 1</td> <!--Item da coluna 2-->
+        	    <td>Item 1</td> <!--Item da coluna 1-->
+                <td>Quantidade 1</td> <!--Item da coluna 2-->
         	</tr>
         </table>
 
