@@ -11,7 +11,7 @@
 - [x]  **[Módulo 3 - Metodologias Ágeis](#módulo-3---metodologias-ágeis)**
 - [x]  **[Módulo 4 - GIT](#módulo-4---git)**
     - [x]  **[Desafio - O que você está achando do curso?](#desafio---módulo-4)**
-- [ ]  **[Módulo 5 - HTML](#módulo-5---html)**
+- [x]  **[Módulo 5 - HTML](#módulo-5---html)**
 - [ ]  **[Módulo 6 - CSS](#módulo-6---css)**
 - [ ]  **[Módulo 7 - Bootstrap](#módulo-7---bootstrap)**
 
@@ -222,16 +222,56 @@
 
 ***SEO (Search Engine Optimization)***: Conjunto de **técnicas de otimização** para sites, blogs e páginas na web. Essas otimizações visam alcançar **bons rankings orgânicos** gerando **tráfego** e **autoridade** para um site ou blog.
 
-- [ ]  **AULA 5.03 - LISTAS E TABELAS**
+- [x]  **AULA 5.03 - LISTAS E TABELAS**
 
-    Para inserção de imagem:
+    Para **inserção de imagem**:
 
-        <img src = "link referente à imagem"/>
+        ***<img src = "link referente a imagem"/>***
 
-    Para criação de tabelas ordenadas
+    Para criação de **listas desordenadas**:
 
-- [ ]  **AULA 5.04 - DIVISÕES I**
-- [ ]  **AULA 5.05 - DIVISÕES II**
+        ***<ul>
+        	<li>Elemento 1</li>
+          <li>Elemento 2</li>
+        	<li>Elemento 3</li>
+        </ul>***
+
+    Para criação de **listas ordenadas**:
+
+        ***<ol>
+        	<li>Elemento 1</li>
+          <li>Elemento 2</li>
+        	<li>Elemento 3</li>
+        </ol>***
+
+    Para criação de **tabelas**:
+
+        ***<table>
+        	<tr>
+        		<th>Item</th> <!--Título da coluna 1-->
+        	  <th>Quantidade</th> <!--Título da coluna 2-->
+        	</tr>
+        	<tr>
+        	  <td>Item 1</td> <!--Item da coluna 1-->
+            <td>Quantidade 1</td> <!--Item da coluna 2-->
+        	</tr>
+        </table>***
+
+- [x]  **AULA 5.04 - DIVISÕES I**
+
+    Para criação de **divisões**:
+
+        ***<div id = "Titulo da divisao">Conteudo</div>***
+
+    Para inserção de **links**:
+
+        ***<a href = "Link referente a pagina">Conteudo</a>***
+
+    **NinjaMock: [https://www.ninjamock.com/](https://ninjamock.com/)**
+
+    ***#DivÉVida***
+
+- [x]  **AULA 5.05 - DIVISÕES II**
 
 ### Módulo 6 - CSS
 
