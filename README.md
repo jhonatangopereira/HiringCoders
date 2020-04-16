@@ -226,27 +226,27 @@
 
     Para **inserção de imagem**:
 
-        ***<img src = "link referente a imagem"/>***
+        <img src = "link referente a imagem"/>
 
     Para criação de **listas desordenadas**:
 
-        ***<ul>
+        <ul>
         	<li>Elemento 1</li>
           <li>Elemento 2</li>
         	<li>Elemento 3</li>
-        </ul>***
+        </ul>
 
     Para criação de **listas ordenadas**:
 
-        ***<ol>
+        <ol>
         	<li>Elemento 1</li>
           <li>Elemento 2</li>
         	<li>Elemento 3</li>
-        </ol>***
+        </ol>
 
     Para criação de **tabelas**:
 
-        ***<table>
+        <table>
         	<tr>
         		<th>Item</th> <!--Título da coluna 1-->
         	  <th>Quantidade</th> <!--Título da coluna 2-->
@@ -255,17 +255,17 @@
         	  <td>Item 1</td> <!--Item da coluna 1-->
             <td>Quantidade 1</td> <!--Item da coluna 2-->
         	</tr>
-        </table>***
+        </table>
 
 - [x]  **AULA 5.04 - DIVISÕES I**
 
     Para criação de **divisões**:
 
-        ***<div id = "Titulo da divisao">Conteudo</div>***
+        <div id = "Titulo da divisao">Conteudo</div>
 
     Para inserção de **links**:
 
-        ***<a href = "Link referente a pagina">Conteudo</a>***
+        <a href = "Link referente a pagina">Conteudo</a>
 
     **NinjaMock: [https://www.ninjamock.com/](https://ninjamock.com/)**
 
