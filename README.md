@@ -1,6 +1,21 @@
 # Hiring Coders
 
-## Treinamento Full Stack - Hacker disponibilizado pela Gama Academy.
+## Sobre
+
+- O **Programa Hiring Coders 2020** da **Gama Academy** tem total foco em **treinar e desenvolver** pessoas para a carreira de **desenvolvimento Full-Stack**.
+
+## Índice
+
+- [x]  **[Módulo 1 - Introdução](#módulo-1---introdução)**
+- [x]  **[Módulo 2 - Lógica de Programação](#módulo-2---lógica-de-programação)**
+- [x]  **[Módulo 3 - Metodologias Ágeis](#módulo-3---metodologias-ágeis)**
+- [x]  **[Módulo 4 - GIT](#módulo-4---git)**
+    - [x]  **[Desafio - O que você está achando do curso?](#desafio---módulo-4)**
+- [x]  **[Módulo 5 - HTML](#módulo-5---html)**
+- [ ]  **[Módulo 6 - CSS](#módulo-6---css)**
+- [ ]  **[Módulo 7 - Bootstrap](#módulo-7---bootstrap)**
+
+---
 
 ### Módulo 1 - Introdução
 
@@ -14,7 +29,6 @@
         - Infraestrutura
         - Testes
         - Integração de diversos sistemas
-
 - [x]  **AULA 1.02 - COMO COMEÇAR**
     - ***Editores de texto***
         - Sublime
@@ -25,7 +39,6 @@
         - Eclipse
         - Netbeans
         - Intellij
-
 - [x]  **AULA 1.03 - DICAS**
     - ***HTML e CSS*** - Linguagens de formatação/apresentação
     - ***Bancos de Dados relacionais*** - MySQL, Postgres, Oracle, SQL Server
@@ -36,7 +49,6 @@
 - [x]  **AULA 2.01 - ALGORITMOS**
     - ***O que é um algoritmo:*** Sequência finita de passos ordenados, cujo objetivo é a **resolução de um problema** através da **transformação da informação** (dados)
     - ***Fazendo um bolo***
-
 - [x]  **AULA 2.02 - VARIÁVEIS E OPERAÇÕES**
     - ***O que fazer com variáveis?***
         - Armazenar informações
@@ -60,7 +72,6 @@
         - Or (||)
         - Not (|)
 - [x]  **AULA 2.03 - DECISÕES**
-
 - [x]  **AULA 2.04 - REPETIÇÕES**
 
 ### Módulo 3 - Metodologias Ágeis
@@ -74,7 +85,6 @@
                 - Regras
                 - Eventos
                 - Artefatos
-
 - [x]  **AULA 3.02 - PAPÉIS**
     - ***Product Owner (PO)*** - Está entre o **Time de Desenvolvimento** e os **StakeHolders**. Denominado como dono do projeto.
     - ***Scrum Master***
@@ -94,7 +104,6 @@
             - Comprometido
             - Focado
             - Busca sempre melhorar sua forma de trabalho e seus resultados
-
 - [x]  **AULA 3.03 - EVENTOS**
     - ***Sprint*** - O **coração do Scrum**, um período de **um mês ou menos**, durante o qual é criado um **produto "Concluído"**, utilizável e potencialmente publicável.
         - Quanto mais tempo, maior a chance de haver mudanças no produto, aumento de complexidade e maior risco de falha.
@@ -112,7 +121,6 @@
         - **Stakeholders** chaves são convidados pelo **Product Owner**.
     - **Retrospectiva** - Momento em que é discutido o que **ocorreu bem**, **poderia ser melhor** e **como o time deve se comprometer para melhorar na próxima Sprint**.
         - Esse é o momento para **Inspecionar** e **Adaptar**.
-
 - [x]  **AULA 3.04 - ARTEFATOS E REFINAMENTO**
     - ***Artefatos***
         - **Product Backlog**
@@ -122,7 +130,6 @@
         - **Itens** muito grandes devem ser **quebrados** com o intuito de **facilitar o planejamento**, **execução** e **entrega**.
         - **Priorizar** os itens de **backlog** (itens devem mudar de acordo com mudanças e estratégias).
         - **Refinar os itens de backlog** (requisitos devem ser **detalhados**, contendo todas as informações necessárias como: regras de negócio, critérios de aceite, fluxos, protótipos, etc).
-
 - [x]  **AULA 3.05 - KANBAN E EXTREME PROGRAMMING**
     - ***Kanban*** - Tem como objetivo **limitar o trabalho em andamento** e **maximizar a eficiência** (ou fluxo).
         - Baseado em um **workflow contínuo** que mantém as equipes ágeis e prontas para se **adaptarem** às mudanças nas **prioridades**.
@@ -139,7 +146,6 @@
         - **GitHub**
         - **BitBucket**
         - **GitLab**
-
 - [x]  **AULA 4.02 - INIT ADD COMMIT**
     - ***Init*** - Iniciar **versionamento** através do terminal.
     - ***Add*** - Adicionar ou modificar arquivo dentro do repositório criado.
@@ -147,14 +153,12 @@
     - ***Commit*** - Criar um ponto na **linha do tempo** do repositório.
     - ***Log*** - Verificar os pontos da linha do tempo e autores das mudanças.
     - ***Status*** - Verificar as mudanças **não "*commitadas*"** do repositório.
-
 - [x]  **AULA 4.03 - LOG, STATUS E SHOW**
     - ***Branch*** - Cria uma nova linha do tempo, usada em **paralelo a linha do tempo principal** (master).
     - ***Checkout*** - Acessa as linhas do tempo **disponíveis** no repositório.
     - ***Reset*** - Retira os arquivos adicionando por **Add**/**Stage**.
     - ***Merge** -* Conecta uma branch paralela à branch principal.
     - ***Show*** - Mostra detalhadamente as mudanças feitas em um commit específico.
-
 - [x]  **AULA 4.04 - BRANCH, CHECKOUT, MERGE E PUSH**
     - ***GitHub*** - Uma rede social de **código fonte**.
         - **Gratuito** para uso de projetos **open source**.
@@ -168,18 +172,106 @@
 
     Depois acessar a conta, com usuário e senha.
 
-- [ ]  **AULA 4.05 - CLONE E PULL**
-- [ ]  **AULA 4.06 - IGNORE**
-- [ ]  **AULA 4.07 - PULL REQUEST**
-- [ ]  **AULA 4.08 - GITFLOW**
+    - ***Push*** - Envia as alterações para um repositório remoto.
+- [x]  **AULA 4.05 - CLONE E PULL**
+    - ***Clone*** - Clonar um repositório a partir de um endereço.
+    - ***Reset*** - Excluir linha do tempo.
+    - ***Pull*** - Atualizar o repositório local a partir do repositório remoto.
+- [x]  **AULA 4.06 - IGNORE**
+    - ***.gitinore*** - Usado para ignorar arquivos/pastas no momento de fazer o push para um repositório remoto.
+- [x]  **AULA 4.07 - PULL REQUEST**
+    - ***Fork*** - Fazer uma cópia de um outro projeto para o próprio repositório remoto.
+    - ***Pull Request*** - Alterações enviadas para o projeto principal para serem analisadas.
+- [x]  **AULA 4.08 - GITFLOW**
+    - ***Master*** - **Branch principal**.
+    - ***Hotfix*** - Branch usada para **correção de falhas** e **pequenas alterações** no projeto.
+    - ***Release*** - Tem função de **juntar outras branchs** para submeter para a branch master posteriormente.
+    - ***Develop*** - Usada para **testes** e **controle**.
+    - ***Feature*** - Branch usada para armazenar as funcionalidades desenvolvidas.
+
+    ### Desafio - Módulo 4
+
+    - ***O que você está achando do curso?***
+        - Com uma ótima recepção e excelentes conteúdos da área de Full-Stack, o curso tem sido ideal tanto para desenvolvedores experientes quanto para novatos que têm interesse na área.
+        - Agradeço a oportunidade, [Gama Academy](https://gama.academy/)!
 
 ### Módulo 5 - HTML
 
-- [ ]  **AULA 5.01 - FERRAMENTAS E ESTRUTURA**
-- [ ]  **AULA 5.02 - TAGS**
-- [ ]  **AULA 5.03 - LISTAS E TABELAS**
-- [ ]  **AULA 5.04 - DIVISÕES I**
-- [ ]  **AULA 5.05 - DIVISÕES II**
+- [x]  **AULA 5.01 - FERRAMENTAS E ESTRUTURA**
+    - ***Objetivo***: Criar uma página para um comércio eletrônico.
+    - ***HTML (HyperText Markup Language)***: **Base/estrutura** do site criada com **linguagem de marcação de hipertexto**.
+    - ***CSS (Cascading Style Sheets)***: Estilo que **dá cores**, **formas**, **formatações** e **divisões** de um site. É uma **linguagem de marcação** que dá o design ao site.
+- [x]  **AULA 5.02 - TAGS**
+
+        <html>
+        	<head>
+        		<title>.: Minha página HTML :.</title>
+        	</head>
+        	<body>
+        		<h1>Título 1</h1>
+        		<hr/>
+        		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        	</body>
+        </html>
+
+    - ***html***: **Tag principal** que armazena todo o conteúdo de uma página.
+    - ***head***: Tag que **armazena informações** que **descrevem** o documento. Exemplo: *título da página*.
+    - ***body***: Tag que **representa o conteúdo** de um documento HTML.
+
+**W3Schools: [https://www.w3schools.com/](https://www.w3schools.com/)**
+
+***SEO (Search Engine Optimization)***: Conjunto de **técnicas de otimização** para sites, blogs e páginas na web. Essas otimizações visam alcançar **bons rankings orgânicos** gerando **tráfego** e **autoridade** para um site ou blog.
+
+- [x]  **AULA 5.03 - LISTAS E TABELAS**
+
+    Para **inserção de imagem**:
+
+        <img src = "link referente a imagem"/>
+
+    Para criação de **listas desordenadas**:
+
+        <ul>
+        	<li>Elemento 1</li>
+            <li>Elemento 2</li>
+        	<li>Elemento 3</li>
+        </ul>
+
+    Para criação de **listas ordenadas**:
+
+        <ol>
+        	<li>Elemento 1</li>
+            <li>Elemento 2</li>
+        	<li>Elemento 3</li>
+        </ol>
+
+    Para criação de **tabelas**:
+
+        <table>
+        	<tr>
+        		<th>Item</th> <!--Título da coluna 1-->
+        	    <th>Quantidade</th> <!--Título da coluna 2-->
+        	</tr>
+        	<tr>
+        	    <td>Item 1</td> <!--Item da coluna 1-->
+                <td>Quantidade 1</td> <!--Item da coluna 2-->
+        	</tr>
+        </table>
+
+- [x]  **AULA 5.04 - DIVISÕES I**
+
+    Para criação de **divisões**:
+
+        <div id = "Titulo da divisao">Conteudo</div>
+
+    Para inserção de **links**:
+
+        <a href = "Link referente a pagina">Conteudo</a>
+
+    **NinjaMock: [https://www.ninjamock.com/](https://ninjamock.com/)**
+
+    ***#DivÉVida***
+
+- [x]  **AULA 5.05 - DIVISÕES II**
 
 ### Módulo 6 - CSS
 
@@ -189,3 +281,12 @@
 - [ ]  **AULA 6.04 - CLASSES, TAGS E IDS**
 - [ ]  **AULA 6.05 - CLASSES, TAGS E IDS II**
 - [ ]  **AULA 6.06 - ANIMAÇÕES EM CSS**
+
+### Módulo 7 - Bootstrap
+
+- [ ]  **AULA 7.01 - BOOTSTRAP: O QUE É E PARA QUE SERVE**
+- [ ]  **AULA 7.02 - INTRODUÇÃO E NAVBAR**
+- [ ]  **AULA 7.03 - CSS NO BOOTSTRAP**
+- [ ]  **AULA 7.04 - BOOTSTRAP CARDS**
+- [ ]  **AULA 7.05 - FORMULÁRIOS E MODAIS**
+- [ ]  **AULA 7.06 - LAYOUT**
