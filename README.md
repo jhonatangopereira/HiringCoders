@@ -19,6 +19,15 @@
 - [x]  **[Módulo 10 - Javascript Intermediário](#módulo-10---java-script-intermediário)**
 - **[*Assignments*](#assignments)**
 
+## Tecnologia utilizadas:
+
+1. **Bootstrap**
+2. **CSS;**
+3. **Git;**
+4. **HTML;**
+5. **Javascript;**
+6. **VS Code;**
+
 ---
 
 ### Módulo 1 - Introdução
