@@ -14,7 +14,7 @@
 - [x]  **[Módulo 5 - HTML](#módulo-5---html)**
 - [x]  **[Módulo 6 - CSS](#módulo-6---css)**
 - [x]  **[Módulo 7 - Bootstrap](#módulo-7---bootstrap)**
-- [x]  [**Módulo 8 - Estrutura de Dados](#módulo-8---estrutura-de-dados)**
+- [x]  **[Módulo 8 - Estrutura de Dados](#módulo-8---estrutura-de-dados)**
 - [x]  **[Módulo 9 - Javascript Básico](#módulo-9---java-script-básico)**
 - [x]  **[Módulo 10 - Javascript Intermediário](#módulo-10---java-script-intermediário)**
 - **[*Assignments*](#assignments)**
