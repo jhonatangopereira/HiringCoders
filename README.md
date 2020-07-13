@@ -25,9 +25,24 @@
 
 - [x]  **AULA 1.01 - OBJETIVOS DO CURSO**
     - ***Ferramentas disponíveis***
+        - Linguagens de programação
+        - Bibliotecas
+        - Frameworks
+        - Bancos de dados
+        - Desenvolvimento Front-End e Back-End
+        - Infraestrutura
+        - Testes
+        - Integração de diversos sistemas
 - [x]  **AULA 1.02 - COMO COMEÇAR**
     - ***Editores de texto***
+        - Sublime
+        - Notepad++
+        - VS Code
     - ***IDEs***
+        - Visual Studio
+        - Eclipse
+        - Netbeans
+        - Intellij
 - [x]  **AULA 1.03 - DICAS**
     - ***HTML e CSS*** - Linguagens de formatação/apresentação
     - ***Bancos de Dados relacionais*** - MySQL, Postgres, Oracle, SQL Server
@@ -40,9 +55,26 @@
     - ***Fazendo um bolo***
 - [x]  **AULA 2.02 - VARIÁVEIS E OPERAÇÕES**
     - ***O que fazer com variáveis?***
+        - Armazenar informações
+        - Cálculos aritméticos
+        - Operações relacionais
+        - Ler dados do usuário
+        - Escrever seu valor na tela
     - ***Operações Aritméticas***
+        - Adição
+        - Subtração
+        - Multiplicação
+        - Divisão
+        - Resto de divisão
     - ***Operações Relacionais***
+        - Maior/Maior ou igual (> / ≥)
+        - Menor/Menor ou igual (< / ≤)
+        - Igual (==)
+        - Diferente (≠)
     - ***Operações Lógicas***
+        - And (&&)
+        - Or (||)
+        - Not (|)
 - [x]  **AULA 2.03 - DECISÕES**
 - [x]  **AULA 2.04 - REPETIÇÕES**
 
@@ -51,30 +83,73 @@
 - [x]  **AULA 3.01 - SCRUM: O QUE É E PARA QUE SERVE**
     - ***Agile*** - O **método ágil de software** (AGILE) refere-se as metodologias de desenvolvimento de software baseadas no **modelo iterativo**. Nele **requisitos e soluções** evoluem atráves de **colaboração entre equipes multifuncionais** auto-organizadas.
     - ***Scrum*** - Framework **iterativo** e **incremental.**
+        - **Conjunto de regras** (papéis, artefatos, eventos) projetados para **organizar o processo de entrega**.
+            - Pilares **Scrum**
+                - Papéis
+                - Regras
+                - Eventos
+                - Artefatos
 - [x]  **AULA 3.02 - PAPÉIS**
     - ***Product Owner (PO)*** - Está entre o **Time de Desenvolvimento** e os **StakeHolders**. Denominado como dono do projeto.
     - ***Scrum Master***
         - *Funções*
+            - Transparência
+            - Escudo contra interferências
+            - Removedor de impedimentos
+            - Conhecer e aplicar os valores do Scrum
+            - Agente de mudanças
+            - Autoridade no processo
     - ***Time de Desenvolvimento***
         - *Funções*
+            - Multidisciplinar
+            - Auto-organizado
+            - Autogerido
+            - Autônomo
+            - Comprometido
+            - Focado
+            - Busca sempre melhorar sua forma de trabalho e seus resultados
 - [x]  **AULA 3.03 - EVENTOS**
     - ***Sprint*** - O **coração do Scrum**, um período de **um mês ou menos**, durante o qual é criado um **produto "Concluído"**, utilizável e potencialmente publicável.
+        - Quanto mais tempo, maior a chance de haver mudanças no produto, aumento de complexidade e maior risco de falha.
+        - Uma nova Sprint **começa imediatamente** após a conclusão da Sprint anterior. O **resultado** da Sprint deve ser sempre **incremental.**
     - ***Planning***  - Definição do que pode ser entregue como **incremento resultante da Sprint**.
+        - **Tarefas** geralmente são estimadas neste evento.
+        - Como as **implementações** serão feitas.
+        - Prazo máximo de **8 horas**, no máximo para uma **Sprint de um mês**. Para Sprints mais curtas, o evento geralmente é mais curto.
     - ***Daily***  - **Evento de 15 minutos** para a equipe de desenvolvimento.
+        - Realizado **todos os dias** da Sprint.
+        - **Alinhamento** da equipe de desenvolvimento sobre as próximas 24 horas.
+        - **O que fiz ontem/farei hoje** relacionado a Sprint.
     - ***Review*** - Realizada ao **final da Sprint**.
+        - Momento em que o time de **desenvolvimento demonstra** o trabalho que está "**done**" e responde perguntas sobre o **incremento**.
+        - **Stakeholders** chaves são convidados pelo **Product Owner**.
     - **Retrospectiva** - Momento em que é discutido o que **ocorreu bem**, **poderia ser melhor** e **como o time deve se comprometer para melhorar na próxima Sprint**.
+        - Esse é o momento para **Inspecionar** e **Adaptar**.
 - [x]  **AULA 3.04 - ARTEFATOS E REFINAMENTO**
     - ***Artefatos***
+        - **Product Backlog**
+        - **Sprint Backlog**
+        - **Increment**  - O que é **gerado pela Sprint**.
     - ***Refinamento***
+        - **Itens** muito grandes devem ser **quebrados** com o intuito de **facilitar o planejamento**, **execução** e **entrega**.
+        - **Priorizar** os itens de **backlog** (itens devem mudar de acordo com mudanças e estratégias).
+        - **Refinar os itens de backlog** (requisitos devem ser **detalhados**, contendo todas as informações necessárias como: regras de negócio, critérios de aceite, fluxos, protótipos, etc).
 - [x]  **AULA 3.05 - KANBAN E EXTREME PROGRAMMING**
     - ***Kanban*** - Tem como objetivo **limitar o trabalho em andamento** e **maximizar a eficiência** (ou fluxo).
+        - Baseado em um **workflow contínuo** que mantém as equipes ágeis e prontas para se **adaptarem** às mudanças nas **prioridades**.
+        - As equipes do **Kanban** se concentram em **reduzir o tempo necessário** para **concluir um projeto** (ou história do usuário) do início ao fim.
     - ***Extreme Programming***  - É a metodologia de **desenvolvimento de software** mais apropriada para o setor, porque produz **melhorias de qualidades** e **alto nível de adaptabilidade**.
+        - Baseada em **comportamentos** e **atitudes**.
+        - Demanda por um **grupo de práticas de engenharia específica**.
 
 ### Módulo 4 - GIT
 
 - [x]  **AULA 4.01 - VERSIONAMENTO: PRINCIPAIS FERRAMENTAS**
     - ***GIT*** - Sistema de **controle de versão distribuído** (local).
     - ***Principais ferramentas do mercado***
+        - **GitHub**
+        - **BitBucket**
+        - **GitLab**
 - [x]  **AULA 4.02 - INIT ADD COMMIT**
     - ***Init*** - Iniciar **versionamento** através do terminal.
     - ***Add*** - Adicionar ou modificar arquivo dentro do repositório criado.
@@ -90,6 +165,9 @@
     - ***Show*** - Mostra detalhadamente as mudanças feitas em um commit específico.
 - [x]  **AULA 4.04 - BRANCH, CHECKOUT, MERGE E PUSH**
     - ***GitHub*** - Uma rede social de **código fonte**.
+        - **Gratuito** para uso de projetos **open source**.
+        - Extremamente **simples** de utilizar.
+        - Repositórios remotos.
 
     Para adicionar o projeto ao GitHub:
 
@@ -218,6 +296,14 @@
 
 - [x]  **AULA 6.01 - TAG STYLE**
     - ***CSS (Cascading Style Sheets)***: Estilo que **dá cores**, **formas**, **formatações** e **divisões** de um site. É uma **linguagem de marcação** que dá o design ao site.
+        - É uma **linguagem** de **criação de estilos**, que quando combinados determinam qual será a **aparência** de uma página web, enquanto o **HTML** cuida da **estrutura** contida em uma página.
+
+        Para referir-se ao arquivo de **estilização CSS**:
+
+        ```html
+        <link rel = "stylesheet" href = "arquivo.css">
+        ```
+
 - [x]  **AULA 6.02 - ATRIBUTOS: COLOR, FONT, BORDER, MARGIN E PADDING**
     - Cor, fonte, tamanho, margem, espaçamento interno, posição, entre outros.
     - Color
@@ -263,6 +349,10 @@
 - [x]  **AULA 8.01 - INTRODUÇÃO**
     - ***Estrutura de Dados*** - Consiste em uma **organização de dados** na memória de um computador ou em um dispositivo de armazenamento, de modo que esses dados possam ser utilizados de **forma eficiente**.
     - ***As principais estruturas de dados focadas nesse módulo***:
+        - **Pilhas**
+        - **Filas**
+        - **Árvore binária**
+        - **Tabela Hash**
 - [x]  **AULA 8.02 - PILHAS I**
     - ***Array/Vetor***: **É definido abstratamente como um conjunto finito e ordenado de elementos homogêneos**.
     - ***Pilha***: **É um conjunto ordenado de itens no qual novos itens podem ser inseridos e a partir do qual podem ser eliminados itens do topo da pilha. (TAD - Tipo Abstrato de Dado)**
@@ -653,21 +743,148 @@
 ### Assignments Semana 6
 
 - ***Times Ágeis***
+    - **Mercado Digital**
+        - Durante o Hiring Coders você terá inúmeros desafios full stack que colocam todas/os à prova de diversas maneiras.
+        - **Mas como trabalhar com pessoas de áreas diferentes e ainda assim manter o Mindset Lean?**
+        - Empresas como Nubank e Spotify distribuem seus times de produto de uma maneira diferente e podemos aprender muito com eles.
+    - **Link da matéria (Qulture Rocks): [Como a Spotify organiza seus times de produto](https://qulture.rocks/blog/como-a-spotify-organiza-seus-times-de-produto/)**
 - ***Liderança Facilitadora***
+
+    **Facilitar significa tornar algo mais fácil.** Na prática da liderança, a facilitação é exercida como o nome já sugere: facilitando processos, procedimentos e relações de um determinado grupo com a finalidade de, assim, engajar o time a alcançar resultados. Isso se faz despertando habilidades e conhecimentos já existentes em um grupo, facilitando diálogos e fomentando discussões.
+
+    **O objetivo principal do/a líder facilitador/a é incentivar a construção coletiva do grupo.** Para tanto, a liderança deve blindar suas pessoas lideradas de possíveis impedimentos, obstáculos e dificuldades que possam surgir no meio do processo.
+
+    Enquanto o modelo clássico de liderança entende que a/o líder deve ocupar uma posição de poder, repassando sua habilidade técnica às suas pessoas lideradas, no modelo de facilitação entende-se que a/o líder deve promover um espaço de diálogo saudável, seguro e respeitoso para o grupo em um modelo horizontal.
+
+    **Técnicas de liderança facilitadora:**
+
+    A/O líder deve representar a síntese das opiniões do grupo e o incentivo à discussão. Portanto, deve ouvir abertamente todos os pontos de vista de uma discussão e auxiliar no encaminhamento da tomada de decisão coletiva. Para instigar a supracitada discussão coletiva, algumas técnicas se tornam relevantes:
+
+    - **Perguntas facilitadoras**
+
+    Quanto mais aberta a pergunta, maior o leque de possibilidade de respostas e portanto, maior o incentivo a discussão: **“Por quê?”, “Como?”, “Por que essa decisão?”** são exemplos de perguntas facilitadoras.
+
+    - **Escuta ativa**
+
+    A/O líder facilitador/a deve estar atenta/o a todas opiniões lançadas dentro da discussão de maneira neutra, absorvendo todos os pontos com imparcialidade e conduzindo a um resultado que seja alcançado coletivamente, baseado no critério de decisão escolhido pelo grupo.
+
+    - **Mediação**
+
+    Mediar possíveis conflitos que possam surgir de maneira neutra, entendendo que não há lados e sim diferentes pontos de vista que devem ser amarrados de maneira a conduzir a um resultado final.
+
+    - **Empatia**
+
+    Conhecer o grupo como um todo e instigar a relação para que todos se conheçam. Essa proximidade facilita o processo de construção de vínculo e confiança, promovendo a conexão entre os pares, a empatia e a conexão entre integrantes.
+
+    **Quando um grupo depara-se com um desafio, um caminho possível para que uma construção de conhecimento seja feita de maneira coletiva é seguindo os seguintes passos:**
+
+    1. **Objetivo**: qual é o resultado esperado da ação desse grupo?
+    2. **Acordos de time:** pontos de consenso, regras e acordos.
+    3. **Diagnóstico**: quais são os problema e as dores desse desafio a ser solucionado?
+    4. **Critérios de decisão:** Qual técnica o grupo irá usar para a tomada de decisão?
+    5. **Soluções Possíveis**: Dado o diagnóstico, quais são as soluções possíveis?
+    6. **Análise e expectativa de retorno:** Qual é a hipótese do impacto das decisões? Qual resultado esperado?
+    7. **Decisão:** Estratégia, planos de ação, encaminhamentos.
 
 ### Assignments Semana 7
 
 - ***Turbinando seu Linkedin***
+    - **Sobre Linkedin**
+        - Mais de 500 milhões de usuários no mundo.
+        - Mais de 29 milhões de usuários brasileiros.
+        - 95% dos recrutadores utilizam o Linkedin para pesquisar e entrar em contato com candidatos.
+        - 93% dos recrutadores analisa o perfil dos candidatos no Linkedin antes de uma entrevista.
+    - **Dicas**
+        - Editar URL.
+        - Ter uma foto profissional no perfil, utilizá-la em todas as redes sociais. Dica: Use o [Photofeeler](https://www.photofeeler.com/).
+        - Foto de capa que reforce sua marca pessoal e habilidades.
+        - Adicionar ao menos 5 competências.
+        - Ter ao menos 50 conexões.
+        - Adicionar um Resumo.
+        - Experiências (fale das ferramentas utilizadas).
+        - Competências (Evite competências muito genéricas).
+        - Recomendações (Recomende pessoas influentes e utilize da Lei da Reciprocidade).
+        - **SSI (Social Sellling Index)**: Parâmetro que mede a força do seu perfil.
+        - Adicione pessoas influentes no seu mercado.
+    - **Entregando conteúdo**
+        - Princípio básico do **Inbound Marketing**.
+        - Facilite a leitura: Escaneabilidade.
+        - Teste conteúdos de assuntos diferentes.
+        - Mantenha frequência, métrica **DAU (Daily Active Users).**
+        - Marque pessoas influentes.
+        - Pesquise sobre os **Trending Topis - Google Trends**.
+        - Estimule a interação.
+        - *Storytelling* (contextualizar).
+    - **Prospecção**
+        - Visite várias vezes o perfil e comente os posts do seu *prospect*.
+        - Adicione enviando uma mensagem amigável.
+        - Utilize datas comemorativas ou mudanças de cargo para interagir.
+        - Busque o *Rapport*, empatia.
+    - **Automatize com o *LinkedHelper***
+        - Conexão com 2º e 3º grau.
+        - Mensagem para conexões de 1 grau.
+        - Visitar perfis automaticamente.
+        - Recomendar competências automaticamente.
+        - Seguir perfis automaticamente.
 
 ### Assignments Semana 8
 
 - ***Hackeando Relacionamentos***
+    - **Hackeando seu Networking - Usando o iceberg framework em ciclos de 4 em 4 anos.**
+    1. **Como você quer morrer?**
+    2. **Quem são as pessoas que podem te ajudar a chegar lá?**
+    3. **Como você vai conseguir a atenção dessas pessoas?**
+    4. **Quais são as formas de ajudar e ser ajudado?** (give first to give back)
+    - **Teoria do Networking**
+        - Vida pessoal - Abstrações da vida: Amor, Morte e Tempo.
+        - Vida profissional - Recursos escassos: Atenção, Dinheiro e Tempo.
+    - **3 princípios de como lidar com pessoas**
+        1. Não critique, não condene, não se queixe.
+        2. Aprecie de forma honesta e sincera.
+        3. Desperte um forte deseja na outra pessoa.
+    - **3 princípios de como fazer as pessoas gostarem de você**
+        1. Torne-se verdadeiramente interessado no outro.
+        2. Lembre-se sempre do nome da pessoa.
+        3. Faça a outra pessoa se sentir importante.
+    - **3 princípios de como conquistar as pessoas para o seu modo de pensar**
+        1. Respeite a opinião dos outros, nunca diga "você está errado"
+        2. Se estiver errado, reconheça seu erro de forma rápida e enfática.
+        3. Procure honestamente ver as coisas do ponto de vista da outra pessoa.
+    - **Bora hackear relacionamentos?**
+        - **Link:** [Iceberg Framework](https://docs.google.com/spreadsheets/d/1g-5kaSVMHRBovjxhz_1kOWIjH_4RhrKsgyq6gvaDN2U/edit#gid=0)
 
 ### **Assignments Semana 9**
 
 - ***GyShido e Produtividade***
+    1. **Controlar tempo é chato, perder dinheiro é muito mais**
+
+        Só 39% do tempo dos profissionais é gasto com o que eles foram, efetivamente, contratados para fazer: o restante se perde em reuniões, e-mails, busca e consolidação de informações... grandes vilões da produtividade - sua e da sua empresa - quando mal geridas.
+
+    2. **A reunião não precisa durar uma hora**
+        - Reuniões também são trabalho e não precisam significar perda de tempo. Mas, para torná-la mais produtivas, é preciso adotar algumas boas práticas. Veja quais mudanças você precisa fazer na sua empresa para ganhar, e não perder, tempo em reuniões.
+    3. **Como gerir e-mails de forma eficiente**
+        - Qual foi a última vez que você viu sua caixa de e-mails zerada? Gerir as dezenas de mensagens que chegam todos os dias é um dos grandes desafios dos empreendedores. E, acredite, você gasta mais tempo com eles do que deveria.
+    4. **Qual é a prioridade da sua empresa?**
+        - Tem tanta coisa para fazer que ninguém sabe o que fazer primeiro. O urgente rouba o espaço do importante e aquela meta estabelecida no início do ano acaba empoeirada enquanto o time equilibra pratinhos. Soa familiar? Pois o exercício de priorização começa por você e por dizer alguns "nãos".
+    5. **Como se organizar melhor**
+
+        É uma triste verdade: o dia só tem 24 horas e você pode usar bem menos que isso para tocar seu negócio. Às vezes parece que precisamos de mais tempo, mas é possível começar a rrumar a bagunça na sua agenda de forma simples, mesmo quando parece que não tem mais volta.
+
 - ***OKRs - Objectives and Key Results***
+    - OKRs significa "Objectives and Key Results", isto é: Objetivos e Resultados-Chave. Os **Objetivos** costumam ser as entregas desejadas que você quer alcançar e os **Resultados-Chave** são as maneiras de medir se você está no caminho certo para atingir seus objetivos.
+    - Em outros palavras... Um Objetivo ajuda a responder a pergunta: "**Aonde eu quero chegar?**". Um Resultado-Chave ajuda a responder: "**Como eu vou saber se estou chegando lá?**".
+    - **Exemplos de bons OKRs:**
+        - **Aumento de receitas correntes**
+        - **Aumento do engajamento dos funcionários**
+        - **Implementar o processo de teste por usuários**
+    - **3 Razões para usarmos OKRs no Buffer**
+        1. **OKRs aumentam nossa clareza**
+        2. **OKRs aumentam o foco**
+        3. **OKRs aumentam a colaboração**
 
 ### **Assignments Semana 10**
 
 - ***Getting Things Done (GTD)***
+    - **4 ferramentas básicas: uma agenda, uma lista de tarefas, um editor de notas e uma caixa de entrada.**
+    - **5 ações básicas: guardar, esclarecer, organizar, engajar e revisar.**
+    - **Resultado: libera espaço na sua mente, te permite ter um estado de flow, te faz perceber que você dá conta de mais coisa do que acha e te ajuda a ver a coerência dos seus passos e a sua vida futura.**
