@@ -68,11 +68,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 4. **HTML**
 5. **[Javascript](https://www.javascript.com/)**
 6. **[React](https://pt-br.reactjs.org/)**:
-    - Axios;
-    - ReactJS;
-    - ReactRouterDOM (BrowserRouter, Route, Switch);
 7. **[Node.JS](https://nodejs.org/en/)**
-8. [**PostgreSQL**](https://www.postgresql.org/)
+8. **[PostgreSQL](https://www.postgresql.org/)**
 9. **[TypeScript](https://www.typescriptlang.org/)**
 10. **[GraphQL](https://graphql.org/)**
 
