@@ -1,0 +1,109 @@
+body {
+    background-color: #ff9900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+}
+
+#content {
+    margin-top: 5px;
+    padding-top: 5px;
+    background-color: #ff9900;
+    border-radius: 8px;
+}
+
+a {
+    color: white;
+    text-decoration: unset;
+}
+
+#header {
+    background-color: white;
+    border-radius: 30px;
+    color: #ff9900;
+    letter-spacing: 10px;
+    text-shadow: darkslategrey 3px 3px 3px;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    font-size: 150%;
+    margin: 5px 5px 5px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 150%;
+    
+}
+
+#productlist {
+    font-family: monospace;
+    display: flex;
+    background-color: white;
+    color: #ff9900;
+    margin: 0px 100px;
+    border-radius: 30px;
+}
+
+#pulpfictionposter {
+    width: 80%;
+}
+
+#rickandmortyposter {
+    width: 76%;
+}
+
+#starwarsposter {
+    width: 76%;
+}
+
+.productcards {
+    border: 2px solid;
+}
+
+#footer {
+    margin-top: 20px;
+}
+
+#socialmedia {
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+#news {
+    font-size: 20px;
+}
+
+input {
+    width: 15%;
+    height: 20px;
+    box-shadow: gray 2px 2px 3px;
+}
+
+button {
+    color: white;
+    background-color: mediumslateblue;
+    border: mediumslateblue 1px solid;
+    height: 25px;
+    box-shadow: mediumslateblue 2px 2px 5px;
+}
+
+#contacts {
+    padding-bottom: 10px;
+}
+
+#github {
+    max-width: 50px;
+    padding-right: 2rem;
+}
+
+#linkedin {
+    margin-bottom: 4px;
+    max-width: 40px;
+}
