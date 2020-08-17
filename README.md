@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JhonatanGuilherme/Hiring-Coders">
   
-  <a href="https://github.com/JhonatanGuilherme/Proffy/commits/master">
+  <a href="https://github.com/JhonatanGuilherme/Hiring-Coders/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JhonatanGuilherme/Hiring-Coders">
   </a>
   
